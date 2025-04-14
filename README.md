@@ -7,6 +7,7 @@
 📚 Em estudo constante de tecnologias como [React, Node.js, PostgreSQL, Delphi, etc.] e sempre disposto a encarar novos desafios.  
 
 📬 Vamos conversar? Sempre aberto a conexões e oportunidades na área de dev!  
+
 <p align="left">
     <a href="https://www.linkedin.com/in/bryan-zimbr%C3%A3o-32402619b/" target="_blank">
         <img 
