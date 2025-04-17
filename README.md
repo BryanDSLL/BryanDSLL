@@ -1,6 +1,6 @@
 # 👨‍💻 Bryan Zimbrão
 
-💻 Desenvolvedor em transição | Apaixonado por tecnologia e aprendizado contínuo!  
+💻 Desenvolvedor Full-Stack | Apaixonado por tecnologia e aprendizado contínuo!  
 
 💡 Acredito no aprendizado contínuo, na colaboração e na construção de soluções que fazem a diferença. Já vislumbro meu espaço no mercado e estou determinado a conquistá-lo.  
 
